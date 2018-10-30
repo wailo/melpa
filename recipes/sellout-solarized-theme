@@ -1,4 +1,4 @@
-(color-theme-solarized
+(sellout-solarized-theme
  :fetcher github
  :repo "sellout/emacs-color-theme-solarized"
  :files (:defaults (:exclude "color-theme-solarized.el")))
