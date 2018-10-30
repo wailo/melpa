@@ -1,2 +1,4 @@
-(color-theme-sanityinc-solarized :repo "purcell/color-theme-sanityinc-solarized" :fetcher github)
-
+(color-theme-sanityinc-solarized
+ :fetcher github
+ :repo "purcell/color-theme-sanityinc-solarized"
+ :files (:defaults (:exclude "color-theme-sanityinc-solarized.el")))
